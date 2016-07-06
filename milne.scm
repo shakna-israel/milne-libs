@@ -1,0 +1,2 @@
+(load "unittest")
+(load "mstrings")
